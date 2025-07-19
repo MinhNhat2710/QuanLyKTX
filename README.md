@@ -48,7 +48,7 @@
 
 ## 💻 Cách chạy bằng GitHub Codespaces (khuyên dùng) 
 1.  Truy cập vào repository:  
-    👉 [`https://github.com/Vuhuyky/Group9_OOP_N02_term3_2025`](https://github.com/Vuhuyky/Group9_OOP_N02_term3_2025)
+    👉 [`https://github.com/MinhNhat2710/QuanLyKTX`](https://github.com/MinhNhat2710/QuanLyKTX)
     
 2.  Nhấn vào nút **`<> Code`** màu xanh lá  
     → Chọn tab **Codespaces**  
