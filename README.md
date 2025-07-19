@@ -1,12 +1,5 @@
-Đây là dự án Quản lý ký túc xá ở môn học OOP, em cùng hoàn thành với 1 bạn nữa trong nhóm
-# **Group9**
+Đây là dự án Quản lý ký túc xá ở môn học OOP, em hoàn thành cùng 1 bạn nữa ở lớp
 
-1.  Vũ Huy Kỳ 22010414 Github id: Vuhuyky
-    
-2.  Đỗ Minh Nhật 22010464 Github id: MinhNhat2710
-    
-
-----------
 # **Link Demo Youtube**
 ## 🎬 Video hướng dẫn
 [![Xem video demo](https://img.youtube.com/vi/m_0j-hbpx-w/0.jpg)](https://www.youtube.com/watch?v=m_0j-hbpx-w)
